@@ -1,0 +1,123 @@
+{
+  "basics": {
+    "name": "Aman Kumar",
+    "title": "Assistant System Engineer",
+    "summary": "Mechanical Engineering graduate with experience as an Assistant System Engineer at TCS and a background in education and research. Skilled in Oracle BI, SQL, and data analysis.",
+    "location": "India",
+    "email": "amanverma.kir@gmail.com",
+    "phone": "+91-8210042336",
+    "links": ["Linkedin"]
+  },
+  "experience": [
+    {
+      "company": "Tata Consultancy Services",
+      "role": "Assistant System Engineer",
+      "dates": "Nov 2021 – Nov 2023",
+      "location": "New Delhi",
+      "bullets": [
+        "Developed and optimized Oracle BI reports to deliver actionable insights for business decision-making.",
+        "Collaborated with cross-functional teams to gather requirements and implement tailored BI solutions. Quantify where possible.",
+        "Collaborate with stakeholders to gather business requirements and design solutions within the Oracle Fusion HCM framework.",
+        "Prepare technical design documents and ensure adherence to best practices.",
+        "Build custom reports, interfaces and integrations using Fusion Technology.",
+        "Performed data migration, transformation, and validation activities."
+      ]
+    },
+    {
+      "company": "Byjus",
+      "role": "Faculty & Business Development Trainee",
+      "dates": "May 2021 – Nov 2021",
+      "location": "Delhi",
+      "bullets": [
+        "Conducted online classes up to class 10 for Physics and Chemistry",
+        "Engaged with parents through structured sessions to present course offerings and successfully convert enrollments.",
+        "Conducted systematic evaluation of Physics and Chemistry answer scripts (up to Class 10) for BYJU’S examinations."
+      ]
+    },
+    {
+      "company": "Springer Publication (Paper)",
+      "role": "Research Experience",
+      "dates": "Aug 2018 – March 2020",
+      "location": "Berhampur, Odisha",
+      "bullets": [
+        "Co-authored a peer-reviewed research paper published by Springer, based on numerical simulation and experimental analysis for aerodynamic optimization.",
+        "Applied data-driven analysis and structured problem solving to validate models through simulations using Ansys software and wind-tunnel experiments.",
+        "Presented research insights at an academic conference."
+      ]
+    }
+  ],
+  "achievements": [
+    {
+      "title": "McKinsey Forward Program",
+      "context": "Developed core consulting skills through the McKinsey Forward Program, including problem-solving, stakeholder communication, data analysis, and agile teamwork."
+    },
+    {
+      "title": "Market Mania 2025 - Rank 10",
+      "context": "Achieved Rank 10 in Market Mania 2025, a live marketing project competition by Finance Veda, focusing on real-world marketing strategy and execution."
+    },
+    {
+      "title": "Cambridge English: Preliminary (B1)",
+      "context": "University of Cambridge – Cambridge English: Preliminary (B1), demonstrating professional working proficiency in English."
+    },
+    {
+      "title": "GATE 2025 - AIR 647",
+      "context": "Cleared GATE 2025 in Humanities and Social Sciences, achieving AIR 647, reflecting strong analytical and reasoning skills."
+    },
+    {
+      "title": "DRDO DRUSE (East Zone) - 3rd Rank",
+      "context": "DRDO DRUSE (East Zone) – 3rd Rank for innovation in robotics and unmanned systems."
+    }
+  ],
+  "projects": [
+    {
+      "title": "SAE Supra Formula Student Project (2018–19)",
+      "stack": [],
+      "bullets": [
+        "Part of a student team that designed, built, and tested a race car for a national competition, using data and testing to improve performance."
+      ],
+      "links": []
+    }
+  ],
+  "skills": [
+    {
+      "group": "Technical",
+      "items": ["SQL", "MS Excel", "PowerPoint", "Oracle BI", "Oracle HCM Cloud", "Google Workspace"]
+    },
+    {
+      "group": "Language",
+      "items": ["Hindi", "English"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Biju Patnaik University of Technology",
+      "degree": "B.Tech, Mechanical Engineering. CGPA 8.44",
+      "location": "Rourkela, Odisha",
+      "dates": "August, 2020"
+    },
+    {
+      "institution": "Jawahar Vidya Mandir",
+      "degree": "CBSE, PCM, XII, Percent- 74.44",
+      "location": "Ranchi, Jharkhand",
+      "dates": "May, 2016"
+    },
+    {
+      "institution": "Scottish Public School",
+      "degree": "CBSE, X, CGPA 10",
+      "location": "Katihar, Bihar",
+      "dates": "May, 2014"
+    }
+  ],
+  "certifications": [],
+  "awards": [],
+  "extra": [
+    {
+      "title": "Volunteering - TCS Youth Employment Program",
+      "content": "Contributed as a volunteer in the TCS Youth Employment Program, supporting skill development and employability of underprivileged youth."
+    },
+    {
+      "title": "Volunteering - CUET-UG Mentor",
+      "content": "Served as a CUET-UG Mentor, guiding students on exam strategy, academic planning, and confidence building."
+    }
+  ]
+}
